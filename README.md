@@ -19,7 +19,7 @@ Interactive Power BI e-commerce analytics dashboard analyzing 541,909 transactio
 - [📈 Key Dataset KPIs](#-key-dataset-kpis)
 - [📊 Dashboard Design](#-dashboard-design)
   - [🏠 Home Page](#1--home-page)
-  - [📈 Dashboard 1 — Sales & Geographic Analysis](#2--dashboard-1--sales-&-geographic-analysis)
+  - [📈 Dashboard 1 — Sales & Geographic Analysis](#2--dashboard-1--sales--geographic-analysis)
   - [🛒 Dashboard 2 — Product Performance](#3--dashboard-2--product-performance)
   - [👥 Dashboard 3 — Customer & Retention Analysis](#4--dashboard-3--customer--retention-analysis)
 - [🛠️ Tools & Technologies](#-tools--technologies)
@@ -275,6 +275,7 @@ The project demonstrates:
 * Business Storytelling
 
 ---
+
 ## 🚀 Business Value
 
 This dashboard equips Tata CLiQ's business and category teams with the insights needed to make faster, data-driven decisions:
@@ -285,6 +286,7 @@ This dashboard equips Tata CLiQ's business and category teams with the insights 
 - **Increase marketing ROI** by analyzing campaign performance and conversion trends across channels
 - **Strengthen pricing strategy** with visibility into discounting patterns and margin impact
 - **Reduce cart abandonment** by identifying friction points in the customer purchase journey
+
 ---
 
 # 🔄 Project Workflow
@@ -353,43 +355,3 @@ Aspiring Data Analyst
 ---
 
 ⭐ If you found this project useful, consider giving this repository a Star!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
