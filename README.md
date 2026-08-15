@@ -22,7 +22,7 @@ Interactive Power BI e-commerce analytics dashboard analyzing 541,909 transactio
   - [📈 Dashboard 1 — Sales & Geographic Analysis](#2--dashboard-1--sales--geographic-analysis)
   - [🛒 Dashboard 2 — Product Performance](#3--dashboard-2--product-performance)
   - [👥 Dashboard 3 — Customer & Retention Analysis](#4--dashboard-3--customer--retention-analysis)
-- [🛠️ Tools & Technologies](#tools--technologies)
+- [🛠️ Tools and Technologies](#-tools-and-technologies)
 - [🚀 Business Value](#-business-value)
 - [🔄 Project Workflow](#-project-workflow)
 - [📂 Repository Structure](#-repository-structure)
@@ -237,7 +237,7 @@ This page effectively communicates customer loyalty and retention behavior.
 
 ---
 
-# 🛠️ Tools & Technologies
+# 🛠️ Tools and Technologies
 
 ### Power BI
 
