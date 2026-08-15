@@ -23,7 +23,7 @@ Interactive Power BI e-commerce analytics dashboard analyzing 541,909 transactio
   - [🛒 Dashboard 2 — Product Performance](#3--dashboard-2--product-performance)
   - [👥 Dashboard 3 — Customer & Retention Analysis](#4--dashboard-3--customer--retention-analysis)
 - [🛠️ Tools & Technologies](#tools--technologies)
-- [💼 Business Value](#-business-value)
+- [🚀 Business Value](#-business-value)
 - [🔄 Project Workflow](#-project-workflow)
 - [📂 Repository Structure](#-repository-structure)
 - [👨‍💻 Author](#-author)
@@ -277,14 +277,14 @@ The project demonstrates:
 ---
 ## 🚀 Business Value
 
-This dashboard equips healthcare administrators with the visibility needed to make faster, data-driven decisions:
+This dashboard equips Tata CLiQ's business and category teams with the insights needed to make faster, data-driven decisions:
 
-- **Improve operational efficiency** by identifying bottlenecks in patient flow and department workload
-- **Reduce patient waiting time** through wait-time trend monitoring across departments
-- **Track doctor productivity** using encounter-level performance data
-- **Boost patient satisfaction** by surfacing trends tied to service quality
-- **Strengthen financial oversight** with revenue, payment, and collection-rate visibility
-- **Lower readmission rates** by spotting high-risk patterns early
+- **Improve sales performance** by identifying top-performing categories, brands, and products
+- **Optimize inventory planning** through demand and stock-turnover trend visibility
+- **Enhance customer experience** by tracking delivery timelines, return rates, and satisfaction trends
+- **Increase marketing ROI** by analyzing campaign performance and conversion trends across channels
+- **Strengthen pricing strategy** with visibility into discounting patterns and margin impact
+- **Reduce cart abandonment** by identifying friction points in the customer purchase journey
 ---
 
 # 🔄 Project Workflow
