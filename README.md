@@ -19,7 +19,7 @@ Interactive Power BI e-commerce analytics dashboard analyzing 541,909 transactio
 - [📈 Key Dataset KPIs](#-key-dataset-kpis)
 - [📊 Dashboard Design](#-dashboard-design)
   - [🏠 Home Page](#1--home-page)
-  - [📈 Dashboard 1 — Sales & Geographic Analysis]
+  - [📈 Dashboard 1 — Sales & Geographic Analysis](#2--dashboard-1--sales-&-geographic-analysis)
   - [🛒 Dashboard 2 — Product Performance](#3--dashboard-2--product-performance)
   - [👥 Dashboard 3 — Customer & Retention Analysis](#4--dashboard-3--customer--retention-analysis)
 - [🛠️ Tools & Technologies](#-tools--technologies)
