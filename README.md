@@ -6,30 +6,29 @@ Interactive Power BI e-commerce analytics dashboard analyzing 541,909 transactio
 
 > **Disclaimer:** This is an independent portfolio/business intelligence case study built on a public online-retail dataset. It is **not** an official internal report of Tata CLiQ or the Tata Group; branding is used solely for presentation purposes.
 
+
 ## 📑 Table of Contents
 
-- [📊 Project Overview](#project-overview)
-- [🎯 Business Problem](#business-problem)
-- [🎯 Project Objectives](#project-objectives)
-- [📁 Dataset](#dataset)
+- [📊 Project Overview](#-project-overview)
+- [🎯 Business Problem](#-business-problem)
+- [🎯 Project Objectives](#-project-objectives)
+- [📁 Dataset](#-dataset)
   - [Dataset Columns](#dataset-columns)
   - [Geographic Coverage](#geographic-coverage)
   - [Product Categories](#product-categories)
-- [📈 Key Dataset KPIs](#key-dataset-kpis)
-- [📊 Dashboard Design](#dashboard-design)
+- [📈 Key Dataset KPIs](#-key-dataset-kpis)
+- [📊 Dashboard Design](#-dashboard-design)
   - [🏠 Home Page](#1--home-page)
   - [📈 Dashboard 1 — Sales & Geographic Analysis](#2--dashboard-1--sales--geographic-analysis)
   - [🛒 Dashboard 2 — Product Performance](#3--dashboard-2--product-performance)
   - [👥 Dashboard 3 — Customer & Retention Analysis](#4--dashboard-3--customer--retention-analysis)
-- [🛠️ Tools & Technologies](#tools--technologies)
-  - [Power BI](#power-bi)
-  - [Microsoft Excel](#microsoft-excel)
-  - [Data Analysis Concepts](#data-analysis-concepts)
-- [🚀 Business Value](#business-value)
-- [🔄 Project Workflow](#project-workflow)
-- [📂 Repository Structure](#repository-structure)
-- [👨‍💻 Author](#author)
+- [🛠️ Tools & Technologies](#-tools--technologies)
+- [🚀 Business Value](#-business-value)
+- [🔄 Project Workflow](#-project-workflow)
+- [📂 Repository Structure](#-repository-structure)
+- [👨‍💻 Author](#-author)
 
+---
 
 ## 📊 Project Overview
 
@@ -44,6 +43,8 @@ The dashboard provides both a **high-level executive view** and detailed drill-d
 * Month
 
 The project combines **data cleaning, KPI development, segmentation, visualization, and business storytelling** to demonstrate an end-to-end data analytics workflow.
+
+> **Disclaimer:** This is an independent portfolio/business intelligence case study built on a public online-retail dataset. It is **not** an official internal report of Tata CLiQ or the Tata Group; branding is used solely for presentation purposes.
 
 ---
 
@@ -352,43 +353,3 @@ Aspiring Data Analyst
 ---
 
 ⭐ If you found this project useful, consider giving this repository a Star!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
